@@ -4,7 +4,7 @@
 
 ## Download
 * [macOS](https://github.com/arinbjornk/T437-remote/releases/download/1.0/T437-remote-v1.zip)
-* Debian/Ubuntu (Coming soon)
+* [Debian/Ubuntu](https://github.com/arinbjornk/T437-remote/releases/download/1.1/T437-remote-linux.zip)
 * Windows (Coming soon)
 
 ## Usage
